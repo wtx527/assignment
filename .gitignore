@@ -5,3 +5,4 @@ venv/
 .env
 .env.*
 *.log
+assignment2-data/
