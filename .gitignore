@@ -6,3 +6,7 @@ venv/
 .env.*
 *.log
 assignment2-data/
+
+# 作业 3 讲义附带的只读文件，评测端自带，不提交
+/glucose_env.py
+/sanity_check.py
